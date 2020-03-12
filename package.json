@@ -1,0 +1,18 @@
+{
+  "name": "arc-lerna-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@architect/architect": "^6.2.4"
+  },
+  "devDependencies": {
+    "lerna": "^3.20.2"
+  }
+}
